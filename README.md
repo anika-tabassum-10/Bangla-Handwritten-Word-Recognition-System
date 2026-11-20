@@ -136,7 +136,7 @@ Open http://localhost:8501. Stop the container with Ctrl+C.
 ## 7. Limitations
 
 - The dataset contains only isolated characters, not words, so word recognition depends on correctly
-  separating the drawn word into characters. [Edit to match your code.]
+  separating the drawn word into characters. 
 - Joined (cursive) handwriting, touching characters and a continuous matra can be segmented wrongly.
 - Dependent vowel signs and complex compound characters may be misrecognised because the dataset
   has no separate classes for them.

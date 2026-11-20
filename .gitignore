@@ -1,0 +1,9 @@
+# Dataset and generated artifacts
+data/
+artifacts/mlflow/
+models/*.keras
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
