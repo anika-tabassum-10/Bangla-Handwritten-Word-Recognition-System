@@ -75,12 +75,12 @@ At least two runs with different settings were made and compared.
 
 ## 4. Results
 
-| Run | Settings | Validation accuracy | Test accuracy |
-|-----|----------|---------------------|---------------|
-| 1   | [fill in] | [fill in]          | [fill in]     |
-| 2   | [fill in] | [fill in]          | [fill in]     |
+| Run            | Validation accuracy | Test accuracy |
+|--------------- |---------------------|---------------|
+| baseline       | 83%                 | 84%           |
+| second-run     | 88%                 | 89%           |
 
-The best model is saved as `models/model.keras`.
+The best model is saved as `models/best_model.keras`.
 
 ## 5. How to run
 
